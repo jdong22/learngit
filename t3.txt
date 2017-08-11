@@ -1,5 +1,5 @@
 yet another t3.
 
 creating a new branch.
-sf
-quick/simple
+quick / simple.
+
